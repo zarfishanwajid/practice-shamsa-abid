@@ -2,7 +2,7 @@
 
 ## Assignment Instructions:
 In this Assignment, you have to put a text file with your name in it. The name of the text file should be your roll number
-Steps to commit a file to your repository.(I will say repo for short)
+Steps to commit a file to the repository.(I will say repo for short)
 1) create a github account online
 2) install git on your local machine https://git-scm.com/downloads
 3) using your command prompt (if using Windows) naviagate to a folder where you can clone the repository
